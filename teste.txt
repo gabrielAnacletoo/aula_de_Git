@@ -1,1 +1,3 @@
-algum texto
+algum texto [digitado pelo  navegador]
+
+algum texto [digitado pelo vs code]
